@@ -1,2 +1,2 @@
 # pseudowork
-my first git projecaanana
+my first git project is here
